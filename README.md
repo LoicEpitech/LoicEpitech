@@ -35,7 +35,7 @@ Salut, moi c’est **Noro Loïc** !
 
 ## 🚀 Projets récents
 
-* **Atelier des Délices** 🍰 : Premier site marchand (front & back)
+* **LiaKosShop** 🍰 : Premier site marchand (front & back)
 * **Systèmes de réservation** 🏡 : Gestion des réservations de villas avec confirmation par email
 * **Modélisation SQL "SIXVOIX"** 📰 : Gestion des VIP, carrières, articles et photos
 
@@ -51,11 +51,9 @@ Salut, moi c’est **Noro Loïc** !
 
 ## 📫 Me contacter
 
-* ✉️ Email : [loic.noro@example.com](mailto:loic.noro@example.com)
-* 🌍 LinkedIn : [Mon profil LinkedIn](https://linkedin.com/)
-* 🐙 GitHub : [Mon GitHub](https://github.com/mon-profil)
+* ✉️ Email : [loico34noro@gmail.com](mailto:loico34noro@gmail.com)
+* 🌍 LinkedIn : [Mon profil LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/loïc-noro-37290933a))
 
 ---
 
-✨ *"Le code, c’est comme l’humour : quand il faut l’expliquer, c’est qu’il n’est pas bon."*
 
