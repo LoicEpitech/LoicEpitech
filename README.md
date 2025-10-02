@@ -52,7 +52,7 @@ Salut, moi c’est **Noro Loïc** !
 ## 📫 Me contacter
 
 * ✉️ Email : [loico34noro@gmail.com](mailto:loico34noro@gmail.com)
-* 🌍 [LinkedIn : Mon profil](https://www.linkedin.com/in/loïc-noro-37290933a)
+* 🌍 LinkedIn : [Mon profil](https://www.linkedin.com/in/loïc-noro-37290933a)
 
 ---
 
