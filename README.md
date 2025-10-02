@@ -8,7 +8,7 @@ Salut, moi c’est **Noro Loïc** !
 
 ## 🧑‍💻 Mes compétences techniques
 
-🛠 Technology Stack :
+🛠 Mes Stacks :
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -19,12 +19,12 @@ Salut, moi c’est **Noro Loïc** !
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 
-📬 Contact Me On :
+📬 Me contacter :
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:loic.noro@epitech.eu)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loïc-noro-37290933a)
 
-📊 My GitHub Stats :
+📊 Mes stats GitHub :
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoicEpitech&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoicEpitech&show_icons=true&theme=radical)
