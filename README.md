@@ -1,8 +1,8 @@
 # 👋 Bienvenue sur mon GitHub Pro
 
 Salut, moi c’est **Noro Loïc** !
-🎓 Étudiant en **BTS SIO option SLAM** • 🚀 Futur étudiant en **MSC préparatoire à Epitech**
-💻 Passionné par le **développement logiciel, web et bases de données**
+🎓 Étudiant en **MSC préparatoire à Epitech**
+💻 Passionné par le **développement logiciel, web et l'intelligence artificiel**
 
 ---
 
