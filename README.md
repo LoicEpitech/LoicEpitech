@@ -21,7 +21,7 @@ Salut, moi c’est **Noro Loïc** !
 
 📬 Contact Me On :
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:loico34noro@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:loic.noro@epitech.eu)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loïc-noro-37290933a)
 
 📊 My GitHub Stats :
@@ -58,7 +58,7 @@ Salut, moi c’est **Noro Loïc** !
 
 ## 🚀 Projets récents
 
-* **LiaKosShop** 🍰 : Premier site marchand (front & back)
+* **LiaKosShop** 🖲️ : Premier site marchand (front & back)
 * **Systèmes de réservation** 🏡 : Gestion des réservations de villas avec confirmation par email
 * **Modélisation SQL "SIXVOIX"** 📰 : Gestion des VIP, carrières, articles et photos
 
