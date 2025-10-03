@@ -23,6 +23,8 @@ Salut, moi c’est **Noro Loïc** !
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:loic.noro@epitech.eu)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loïc-noro-37290933a)
+[![Site Web](https://img.shields.io/badge/-Mon%20Site-FF5722?logo=google-chrome&logoColor=white)](http://92.88.3.200:8082)
+
 
 📊 Mes stats GitHub :
 
